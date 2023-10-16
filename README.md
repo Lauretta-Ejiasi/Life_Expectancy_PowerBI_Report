@@ -1,6 +1,6 @@
 # Life_Expectancy_PowerBI_Report
 
-This is a report provides a comprehensive understanding of life expectancy trends and patterns. It can be used by policymakers, researchers, healthcare professionals, and organizations to make informed decisions, develop interventions, allocate resources to improve public health outcomes and address disparities in life expectancy.
+This report provides a comprehensive understanding of life expectancy trends and patterns. It can be used by policymakers, researchers, healthcare professionals, and organizations to make informed decisions, develop interventions, allocate resources to improve public health outcomes and address disparities in life expectancy.
 - Policymakers: Policymakers can use it to make informed policies related to healthcare, education, social welfare, and public health measures. The report can help policymakers identify areas that need improvement and develop strategies to address disparities in life expectancy.
 - Researchers: Researchers can use this report to conduct further studies on the factors influencing life expectancy rates and develop interventions to improve public health outcomes.
 3. Healthcare professionals: Healthcare professionals can use the report to identify risk factors for premature mortality and develop targeted interventions to improve health outcomes for their patients.
